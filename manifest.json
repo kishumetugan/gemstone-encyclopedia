@@ -1,0 +1,26 @@
+{
+  "name": "אנציקלופדיית אבני חן",
+  "short_name": "אבני חן",
+  "description": "אנציקלופדיה מקיפה של אבני חן ומינרלים",
+  "start_url": "/gemstone-encyclopedia/",
+  "display": "standalone",
+  "background_color": "#fef3c7",
+  "theme_color": "#92400e",
+  "orientation": "portrait",
+  "dir": "rtl",
+  "lang": "he",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
