@@ -2,7 +2,7 @@
   "name": "אנציקלופדיית אבני חן",
   "short_name": "אבני חן",
   "description": "אנציקלופדיה מקיפה של אבני חן ומינרלים",
-  "start_url": "/gemstone-encyclopedia/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#fef3c7",
   "theme_color": "#92400e",
